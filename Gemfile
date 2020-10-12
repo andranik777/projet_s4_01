@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'rspec'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'dotenv'
